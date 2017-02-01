@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PDP",
-    "currentPage": "index.html",
+    "currentPage": "saida.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,10 +24,7 @@
     "uniqCompNum": 20,
     "versionPublish": "3.11.1",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -133,7 +130,7 @@
           "title1": "Recrutamento e Seleção",
           "subtitle1": "",
           "caption1": "Fase onde a Secretaria de Educação do Estado de Pernambuco divulga a necessidade de pessoal para atrair o cidadão que tenha interesse em fazer parte do corpo de profissionais da instituição.",
-          "button1": "<a data-app-btn=\"true\" href=\"recrutamentoSelecao.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">ABRIR</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"pretensaoEntrada.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">ABRIR</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
