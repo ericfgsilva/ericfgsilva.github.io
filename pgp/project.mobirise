@@ -24,7 +24,12 @@
     "uniqCompNum": 30,
     "versionPublish": "3.11.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "ericfgsilva",
+    "gitHubPath": "pgp"
   },
   "pages": {
     "index.html": {
